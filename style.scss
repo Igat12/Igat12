@@ -21,7 +21,6 @@ body {
   font: 16px/1.5 $helvetica;
   color: $white;
 	background-image: url("https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj9m8-6iq7UAhUF7BQKHTNBB1EQjRwIBw&url=http%3A%2F%2Feskipaper.com%2Fblue-background-8.html&psig=AFQjCNGUssNYQO2M0hjGEzFkoPdYXHTkuQ&ust=1497005564607344");
-  background-color: #111111;
 }
 
 .container {
@@ -47,6 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  text-shadow: 3px 2px black;
   a {
     color: inherit;
   }
