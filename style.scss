@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $white;
+	background-image: url("https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj9m8-6iq7UAhUF7BQKHTNBB1EQjRwIBw&url=http%3A%2F%2Feskipaper.com%2Fblue-background-8.html&psig=AFQjCNGUssNYQO2M0hjGEzFkoPdYXHTkuQ&ust=1497005564607344");
+  background-color: #cccccc;
 }
 
 .container {
